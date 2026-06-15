@@ -44,4 +44,4 @@ Successfully uncovered key sales trends, identified top performing products, ana
 ---
 
 ## 👩‍💻 Author
-**Nandani Sharma** — Data Analytics Intern @ Oasis Infobyte
+**MD FAISAL** — Data Analytics Intern @ Oasis Infobyte
